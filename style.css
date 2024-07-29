@@ -1,0 +1,22 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    font-size: 28px;
+    background-color: rgb(246, 225, 203);
+}
+ul, ol {
+    font-size: 20px;
+}
+
+img {
+    border-radius: 50px;
+    width: 600px;
+    height: 400px;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+
+
+
